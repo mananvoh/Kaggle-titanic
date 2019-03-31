@@ -1,15 +1,15 @@
 # Kaggle-titanic
 Kaggle Machine Learning data set for survival prediction
 
-Data set features
+Data set features<br>
 Variable<br>	
-survival	
-pclass		
-sex		
-Age		
-sibsp		
-parch		
-ticket		
-fare		
-cabin		
-embarked
+survival<br>	
+pclass<br>		
+sex<br>
+Age<br>
+sibsp<br>
+parch<br>
+ticket<br>	
+fare<br>
+cabin<br>
+embarked<br>
