@@ -2,7 +2,7 @@
 Kaggle Machine Learning data set for survival prediction
 
 Data set features
-Variable	
+Variable<br>	
 survival	
 pclass		
 sex		
