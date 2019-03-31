@@ -2,14 +2,14 @@
 Kaggle Machine Learning data set for survival prediction
 
 Data set features
-	Variable	Definition				Key
-	survival	Survival					0 = No, 1 = Yes
-	pclass		Ticket class			1 = 1st, 2 = 2nd, 3 = 3rd
-	sex				Sex	
-	Age				Age in years	
-	sibsp			# of siblings / spouses aboard the Titanic	
-	parch			# of parents / children aboard the Titanic	
-	ticket		Ticket number	
-	fare			Passenger fare	
-	cabin			Cabin number	
-	embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
+Variable	
+survival	
+pclass		
+sex		
+Age		
+sibsp		
+parch		
+ticket		
+fare		
+cabin		
+embarked
